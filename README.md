@@ -1,4 +1,4 @@
-# OnBoardIQ
+# EnrollAI
 
 OnBoardIQ is an AI-powered account onboarding platform that uses a **LangChain + LangGraph multi-agent pipeline** to streamline KYC, document verification, and customer risk profiling for modern banking systems. The pipeline is modeled as a state graph with conditional short-circuit edges, and a Groq LLM (Llama 3.3 70B) generates a customer-friendly explanation of the final decision.
 
